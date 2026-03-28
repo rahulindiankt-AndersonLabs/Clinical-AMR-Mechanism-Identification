@@ -1,0 +1,11 @@
+{
+  "n": 577,
+  "overall_accuracy": 0.8735,
+  "overall_accuracy_ci95": [
+    0.8474,
+    0.9012
+  ],
+  "focal_definition": "Subset accuracy on isolates where true_mech is in {NDM-1, KPC-2}",
+  "focal_accuracy": 0.8966,
+  "has_vfe_gap": true
+}
